@@ -278,3 +278,7 @@ imposture
 laggardly
 slaking
 sella
+minstrel
+troubadour
+mendicant
+mountebank
