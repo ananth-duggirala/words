@@ -282,3 +282,4 @@ minstrel
 troubadour
 mendicant
 mountebank
+curlicues
