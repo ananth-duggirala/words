@@ -284,3 +284,4 @@ mendicant
 mountebank
 curlicues
 enjoined
+nescient
