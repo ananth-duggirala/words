@@ -285,3 +285,5 @@ mountebank
 curlicues
 enjoined
 nescient
+conniption
+simpatico
