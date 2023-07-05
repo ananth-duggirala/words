@@ -291,3 +291,5 @@ passel
 camisole
 tatami
 feuilleton
+unctuous
+seigniorage
